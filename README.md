@@ -1,5 +1,7 @@
 # odin-recipes
 
-odin recipes is a website that consists of some of my favourite recipes currently constructed entirely using HTML5. 
+odin recipes is a website currently constructed entirely using only HTML5 that consists of some of my favourite recipes. 
 
-Later on, after the project is complete, I'll share what I've learned, what I enjoyed the most about the project, what skills I demonstrated, etc.
+Through this project, I learned and practiced my HTML fundamentals. Basic concepts such as iserting images, links, lists, etc. 
+
+Later on, I'll be updating this project using css and further down the line in my learning journey using javascript. 
