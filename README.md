@@ -4,4 +4,6 @@ odin recipes is a website currently constructed entirely using only HTML5 that c
 
 Through this project, I learned and practiced my HTML fundamentals. Basic concepts such as inserting images, links, lists, etc. 
 
-Later on, I'll be updating this project using CSS and further down the line in my learning journey using JavaScript. 
+Later on, I'll be updating and styling the website using CSS. 
+
+Check out the **[Recipes](https://denzelanoliefo.github.io/odin-recipes/index.html)** website.
