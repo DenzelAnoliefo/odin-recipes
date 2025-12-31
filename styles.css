@@ -1,0 +1,162 @@
+.body {
+    background-image: linear-gradient(rgb(255, 241, 206), rgb(221, 172, 49));
+    min-height: 100vh;
+    margin: 10px;
+    background-repeat: no-repeat;
+}
+
+.title {
+    text-align: center;
+    border-top: 10px solid rgb(221, 172, 49);
+    border-left: 10px solid rgb(221, 172, 49);
+    color: white;
+    background-color: black;
+}
+
+.macandcheese {
+    display: inline-block;
+    background-color: rgb(221, 172, 49);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border: 10px solid rgb(0, 0, 0)
+}
+
+.macandcheese:hover {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border-top: 10px solid rgb(221, 172, 49);
+    border-left: 10px solid rgb(221, 172, 49);
+}
+
+.macandcheese .maclink {
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+
+.bolognese {
+    display: inline-block;
+    background-color: rgb(221, 172, 49);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border: 10px solid rgb(0, 0, 0)
+}
+
+.bolognese:hover {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border-top: 10px solid rgb(221, 172, 49);
+    border-left: 10px solid rgb(221, 172, 49);
+}
+
+.bolognese .bologneselink {
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.jollofrice {
+    display: inline-block;
+    background-color: rgb(221, 172, 49);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border: 10px solid rgb(0, 0, 0)
+}
+
+.jollofrice:hover {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    height: 50px;
+    margin: 8px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white 3px;
+    border-top: 10px solid rgb(221, 172, 49);
+    border-left: 10px solid rgb(221, 172, 49);
+}
+
+.jollofrice .jolloflink {
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+
+
+
+.Home {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    line-height: 25px;
+    border: 4px solid rgb(221, 172, 49);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.Home:hover {
+    display: inline-block;
+    background-color: black;
+    color: rgb(221, 172, 49);
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    line-height: 25px;
+    border: 4px solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px solid rgb(221, 172, 49)
+    
+}
